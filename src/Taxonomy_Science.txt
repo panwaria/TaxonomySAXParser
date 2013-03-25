@@ -1,0 +1,67 @@
+<taxonomy>
+	<item name="Science">
+		<category>
+			<item name="Physics">
+				<category>
+					<item name="Classical Physics">
+						<category>
+							<item name="Mechanics"/>
+							<item name="Electrodynamics"/>
+							<item name="Thermodynamics"/>
+							<item name="Relativity"/>
+						</category>
+					</item>
+
+					<item name="Modern Physics">
+						<category>
+							<item name="Quantum Mechanics"/>
+							<item name="Einsteinian Relativity"/>
+						</category>
+					</item>
+
+				</category>
+	
+			</item>
+
+			<item name="Chemistry">
+			</item>
+			
+			<item name="Biology">
+			</item>
+	
+			<item name="Computer Science">
+				<category>
+					<item name="Artificial Intelligence">
+						<category>
+							<item name="Decision Trees"/>
+							<item name="Support Vector Machines"/>
+							<item name="Machine Learning"/>
+							<item name="Natural Language Processing"/>
+							<item name="Probabilistic Reasoning"/>
+						</category>
+					</item>
+					
+					<item name="Computer Architecture"/>
+					<item name="Databases">
+						<category>
+							<item name="Data Integration"/>
+							<item name="Information Retrieval">
+								<category>
+									<item name="PageRank"/>
+								</category>
+							</item>
+							<item name="Information Extraction"/>
+							<item name="Data Mining"/>
+							<item name="Crowd Sourcing"/>
+						</category>
+					</item>
+					
+					<item name="Graphics"/>
+					<item name="Programming"/>
+					<item name="Theory"/>
+					<item name="Security"/>
+				</category>
+			</item>
+		</category>
+	</item>
+</taxonomy>
